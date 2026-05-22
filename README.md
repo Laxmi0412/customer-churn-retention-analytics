@@ -11,7 +11,6 @@ This project analyzes customer churn behavior to understand why customers leave,
 Businesses lose significant revenue not only from low acquisition but from existing customers leaving (churn).
 
 This project answers:
-
 Which customers are leaving and why?
 What patterns indicate churn risk?
 How much revenue is being lost?
@@ -40,11 +39,11 @@ Fields include: customer demographics, contract type, tenure, billing, services,
 **⚙️ Project Workflow**
 
 **1. Data Preparation (SQL + Python)**
-** Clean missing values
-** Standardize data types
-** Remove inconsistencies
+* Clean missing values* 
+* Standardize data types*
+* Remove inconsistencies*
 
-2. KPI Engineering (SQL)
+**2. KPI Engineering (SQL)**
 Total customers
 Churned customers
 Churn rate
