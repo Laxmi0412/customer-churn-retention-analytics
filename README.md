@@ -50,7 +50,7 @@ Churn rate
 Average tenure
 Revenue per customer
 
-3. Exploratory Data Analysis (Python)
+**3. Exploratory Data Analysis (Python)**
 Churn distribution analysis
 Correlation between features and churn
 Behavioral patterns identification
