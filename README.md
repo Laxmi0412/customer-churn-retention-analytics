@@ -6,7 +6,7 @@
 
 This project analyzes customer churn behavior to understand why customers leave, which segments are at risk, and how much revenue is lost due to churn. It combines SQL-based data analysis, Python-driven exploration, and Power BI dashboards to deliver actionable retention insights.
 
-🎯 Business Problem
+**🎯 Business Problem**
 
 Businesses lose significant revenue not only from low acquisition but from existing customers leaving (churn).
 
@@ -18,7 +18,7 @@ How much revenue is being lost?
 Which customers should be targeted for retention?
 
 
-📊 Key Objectives
+**📊 Key Objectives**
 Measure churn rate and customer retention performance
 Identify high-risk customer segments
 Analyze revenue loss due to churn
@@ -26,23 +26,23 @@ Understand behavioral patterns behind churn
 Build actionable retention insights for business decisions
 
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 SQL → KPI extraction, segmentation, churn metrics
 Python (Pandas, NumPy, Matplotlib, Seaborn) → EDA & analysis
 Power BI → Interactive dashboards & storytelling
 
 
-📂 Dataset
+**📂 Dataset**
 IBM Telco Customer Churn Dataset
 
 Fields include: customer demographics, contract type, tenure, billing, services, churn status
 
-⚙️ Project Workflow
+**⚙️ Project Workflow**
 
-1. Data Preparation (SQL + Python)
-Clean missing values
-Standardize data types
-Remove inconsistencies
+**1. Data Preparation (SQL + Python)**
+** Clean missing values
+** Standardize data types
+** Remove inconsistencies
 
 2. KPI Engineering (SQL)
 Total customers
