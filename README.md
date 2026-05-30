@@ -6,6 +6,40 @@
 
 This project analyzes customer churn behavior to understand why customers leave, which segments are at risk, and how much revenue is lost due to churn. It combines SQL-based data analysis, Python-driven exploration, and Power BI dashboards to deliver actionable retention insights.
 
+# 💰 Customer Churn & Retention Analytics System
+
+(Power BI + SQL + Python)
+
+## 🚀 Project Overview
+
+This project analyzes customer churn behavior to understand why customers leave, which segments are at risk, and how much revenue is lost due to churn. It combines SQL-based data analysis, Python-driven exploration, and Power BI dashboards to deliver actionable retention insights.
+This project simulates a real-world business analysis engagement by translating customer behavior data into actionable retention strategies, stakeholder-focused reporting, and executive decision-support insights.
+
+## 📌 Key Outcomes
+
+## 📌 Key Outcomes
+
+• Analyzed 7,000+ customer records to identify churn drivers and retention opportunities.
+
+• Identified month-to-month contracts as the highest-risk churn segment.
+
+• Quantified revenue loss associated with customer attrition.
+
+• Built interactive Power BI dashboards for churn monitoring and executive reporting.
+
+
+
+## 🎯 Business Problem
+
+Businesses lose significant revenue not only from low acquisition but from existing customers leaving (churn).
+
+This project answers:
+
+- Which customers are leaving and why?
+- What patterns indicate churn risk?
+- How much revenue is being lost?
+- Which customers should be targeted for retention?
+
 **🎯 Business Problem**
 
 Businesses lose significant revenue not only from low acquisition but from existing customers leaving (churn).
