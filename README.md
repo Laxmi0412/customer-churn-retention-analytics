@@ -1,11 +1,3 @@
-**💰 Customer Churn & Retention Analytics System**
-
-(Power BI + SQL + Python)
-
-**🚀 Project Overview**
-
-This project analyzes customer churn behavior to understand why customers leave, which segments are at risk, and how much revenue is lost due to churn. It combines SQL-based data analysis, Python-driven exploration, and Power BI dashboards to deliver actionable retention insights.
-
 # 💰 Customer Churn & Retention Analytics System
 
 (Power BI + SQL + Python)
@@ -14,8 +6,6 @@ This project analyzes customer churn behavior to understand why customers leave,
 
 This project analyzes customer churn behavior to understand why customers leave, which segments are at risk, and how much revenue is lost due to churn. It combines SQL-based data analysis, Python-driven exploration, and Power BI dashboards to deliver actionable retention insights.
 This project simulates a real-world business analysis engagement by translating customer behavior data into actionable retention strategies, stakeholder-focused reporting, and executive decision-support insights.
-
-## 📌 Key Outcomes
 
 ## 📌 Key Outcomes
 
@@ -39,17 +29,6 @@ This project answers:
 - What patterns indicate churn risk?
 - How much revenue is being lost?
 - Which customers should be targeted for retention?
-
-**🎯 Business Problem**
-
-Businesses lose significant revenue not only from low acquisition but from existing customers leaving (churn).
-
-This project answers:
-Which customers are leaving and why?
-What patterns indicate churn risk?
-How much revenue is being lost?
-Which customers should be targeted for retention?
-
 
 **📊 Key Objectives**
 Measure churn rate and customer retention performance
@@ -178,13 +157,13 @@ Improve customer lifetime value (CLV)
 Optimize subscription and pricing strategies
 Support data-driven retention campaigns
 
-🚀 Optional ML Upgrade (for extra strength)
-Logistic Regression / Random Forest churn prediction
-Risk scoring (High / Medium / Low)
-Feature importance analysis
+## 📄 Resume Summary
 
-👩‍💻 Author
+Built an end-to-end customer churn analytics solution using SQL, Python, and Power BI to identify churn drivers, quantify revenue loss, segment customers by risk level, and support data-driven retention strategies and business decision-making.
 
+
+## 👩‍💻 Author
 Laxmi Rushaali Kuravi
-Data Analyst | SQL • Power BI • Python | Business Intelligence & Machine Learning
+Business Analyst | Data Analyst  
+SQL • Power BI • Python • Business Intelligence • Stakeholder-Focused Analytics
 
